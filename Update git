@@ -1,3 +1,16 @@
+
+# Für das jeweilige Repo
+git config --global user.email "tom.wechsler@outlook.com"
+git config --global user.name "Tom Wechsler"
+
+
+
+# Hochladen
 git add .
-git commit -m "neue Dateien"
+git commit -m "new files"
 git push
+
+
+
+# Runterladen
+git pull
